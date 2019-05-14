@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 this is b
 
 emmmm...
+=======
+this is not b
+and i add a new line.
+>>>>>>> 730e92d8420160f1cee0aac1dc808f3d8102e700
